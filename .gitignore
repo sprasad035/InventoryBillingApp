@@ -1,0 +1,10 @@
+﻿# Ignore unwanted files
+
+## Ignore the .vs directory
+.vs/
+
+# Ignore all bin directories (including bin/Debug/net8.0-windows)
+bin/
+
+# Ignore all obj directories (including obj/Debug/net8.0-windows)
+obj/
