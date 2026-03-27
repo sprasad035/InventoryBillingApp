@@ -1,0 +1,3 @@
+﻿# Ignore un wanted files
+## Ignore my .vs directory
+.vs/
